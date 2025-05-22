@@ -1,0 +1,10 @@
+C:\CIS160\Homework\Homework 04\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\CIS160\Homework\Homework 04\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+C:\CIS160\Homework\Homework 04\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+C:\CIS160\Homework\Homework 04\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.AssemblyReference.cache
+C:\CIS160\Homework\Homework 04\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.frmIncomeTaxCalculator.resources
+C:\CIS160\Homework\Homework 04\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.Properties.Resources.resources
+C:\CIS160\Homework\Homework 04\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.cache
+C:\CIS160\Homework\Homework 04\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\CIS160\Homework\Homework 04\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\CIS160\Homework\Homework 04\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
